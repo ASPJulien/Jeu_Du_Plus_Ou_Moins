@@ -1,0 +1,6 @@
+C:\Users\Julien\RiderProjects\TP Le jeu du plus ou du moins\TP Le jeu du plus ou du moins\bin\Debug\TP_Le_jeu_du_plus_ou_du_moins.exe
+C:\Users\Julien\RiderProjects\TP Le jeu du plus ou du moins\TP Le jeu du plus ou du moins\bin\Debug\TP_Le_jeu_du_plus_ou_du_moins.pdb
+C:\Users\Julien\RiderProjects\TP Le jeu du plus ou du moins\TP Le jeu du plus ou du moins\obj\Debug\TP Le jeu du plus ou du moins.csprojAssemblyReference.cache
+C:\Users\Julien\RiderProjects\TP Le jeu du plus ou du moins\TP Le jeu du plus ou du moins\obj\Debug\TP Le jeu du plus ou du moins.csproj.CoreCompileInputs.cache
+C:\Users\Julien\RiderProjects\TP Le jeu du plus ou du moins\TP Le jeu du plus ou du moins\obj\Debug\TP_Le_jeu_du_plus_ou_du_moins.exe
+C:\Users\Julien\RiderProjects\TP Le jeu du plus ou du moins\TP Le jeu du plus ou du moins\obj\Debug\TP_Le_jeu_du_plus_ou_du_moins.pdb
