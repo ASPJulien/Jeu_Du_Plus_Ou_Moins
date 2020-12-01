@@ -49,7 +49,7 @@ namespace TP_Le_jeu_du_plus_ou_du_moins
         private static void Win()
         {
             Console.WriteLine("\nBravo !");
-            Console.WriteLine("Tu as gagné en " + _countPlays + " coups !");
+            Console.WriteLine("Tu as gagné en " + _countPlays + " coup" + Pluriel.pluriel(_countPlays) + " !");
             Console.ReadKey();
         }
     }
